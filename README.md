@@ -76,6 +76,7 @@ by James Forshaw.
 * [What Is My IP](https://whatismyip.help/) - A tool for quickly checking your public IPv4 and IPv6 addresses on desktop and mobile, built with privacy and usability in mind.
 * [IPv6 / IPv4 Connectivity Test](https://test-ipv6.run/) - A browser-based tool to test IPv4/IPv6 connectivity, measure protocol latency, check dual-stack readiness, and score your network's IPv6 deployment.
 * [NetworkWhois](https://networkwhois.com/) - Free online network diagnostic tools (IP WHOIS, DNS records lookup, DNS propagation, reverse DNS, blacklist checks, SSL checker, website status, and more).
+* [17NAS NetDiag](https://17nas.com/netdiag.php) - Free online network diagnostics; run ping, DNS, and connectivity checks from your browser, no signup.
 [17NAS NAT Test](https://17nas.com/nat-test.php) - Free online NAT type test; check your NAT type, public IP and connectivity for gaming, VoIP and P2P, no signup.
 ### Packet capture and analysis
 * [17NAS Port Check](https://17nas.com/port-check.php) - Free online port checker; test if TCP ports are open on any host, no signup.
