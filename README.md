@@ -79,7 +79,7 @@ by James Forshaw.
 [17NAS NAT Test](https://17nas.com/nat-test.php) - Free online NAT type test; check your NAT type, public IP and connectivity for gaming, VoIP and P2P, no signup.
 ### Packet capture and analysis
 * [17NAS Port Check](https://17nas.com/port-check.php) - Free online port checker; test if TCP ports are open on any host, no signup.* 
-* [Wireshark](https://www.wireshark.org/) - The most popular free and open source network protocol analyzer.
+* [Wireshark](https://www.wireshark.org/) - The most popular free and open source network protocol analyz
 * [Tshark](https://tshark.dev/) - A CLI version of Wireshark.
 * [tcpdump](http://www.tcpdump.org/) - A powerful open source command-line packet analyzer.
 * [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - A network forensic tool for PCAP file analysis.
