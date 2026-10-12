@@ -77,6 +77,7 @@ by James Forshaw.
 * [IPv6 / IPv4 Connectivity Test](https://test-ipv6.run/) - A browser-based tool to test IPv4/IPv6 connectivity, measure protocol latency, check dual-stack readiness, and score your network's IPv6 deployment.
 * [NetworkWhois](https://networkwhois.com/) - Free online network diagnostic tools (IP WHOIS, DNS records lookup, DNS propagation, reverse DNS, blacklist checks, SSL checker, website status, and more).
 
+* [17NAS NAT Test](https://17nas.com/nat-test.php) - Free online NAT type test; check your NAT type, public IP and connectivity for gaming, VoIP and P2P, no signup.
 ### Packet capture and analysis
 
 * [Wireshark](https://www.wireshark.org/) - The most popular free and open source network protocol analyzer.
